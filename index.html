@@ -16,6 +16,7 @@
       * {
         margin: 0;
         padding: 0;
+        user-select: none;
       }
       body {
         background-color: rgb(0, 0, 33);
@@ -317,6 +318,9 @@
           "Video Editor",
         ],
         typeSpeed: 50,
+      });
+      document.addEventListener("contextmenu", function (e) {
+        e.preventDefault();
       });
     </script>
   </body>
