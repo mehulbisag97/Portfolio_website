@@ -1,4 +1,4 @@
 # Portfolio_website
 
-LINk
-- [[PORTFOLIO LINK](https://mehul1-portfolio.netlify.app/)](https://mehul-portfolio-website.vercel.app/)
+LINK
+- [(https://mehul1-portfolio.netlify.app/)](https://mehul-portfolio-website.vercel.app/)
